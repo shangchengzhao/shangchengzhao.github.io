@@ -4,10 +4,9 @@ title: Movie Reviews
 ---
 
 # Movies
-## Romantic
 ### Love Letter
+**Genre**: Romantic
 
-## Sci-fi
 ### Alita: Battle Angel
 
 ## Musicals
@@ -19,16 +18,11 @@ title: Movie Reviews
 # TV shows
 ## Sci-fi
 ### Love Death + Robots
-<!-- ![Love Death + Robot](images/love_death_robot.jpg) -->
+<!-- ![Love Death + Robot](/images/love_death_robot.jpg) -->
 <!-- ![Love Death + Robot](https://github.com/shangchengzhao/shangchengzhao.github.io/blob/master/images/love_death_robot.jpg) -->
-![love death + robot]({{ site.baseurl }}images/love_death_robot.jpg)
+![love death + robot]({{ site.baseurl }}/images/love_death_robot.jpg)
 
 - [ ] Watched?
-
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
 
 ## I haven't watched this yet, but I heard it's good
 ### One hundred years of solitude
