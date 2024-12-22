@@ -20,7 +20,8 @@ title: Movie Reviews
 ## Sci-fi
 ### Love Death + Robots
 <!-- ![Love Death + Robot](images/love_death_robot.jpg) -->
-![Love Death + Robot](https://github.com/shangchengzhao/shangchengzhao.github.io/blob/master/images/love_death_robot.jpg)
+<!-- ![Love Death + Robot](https://github.com/shangchengzhao/shangchengzhao.github.io/blob/master/images/love_death_robot.jpg) -->
+![love death + robot]({{ site.baseurl }}images/love_death_robot.jpg)
 
 - [ ] Watched?
 
