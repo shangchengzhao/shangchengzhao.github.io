@@ -44,7 +44,7 @@ Chicago is based on a Broadway musical of the same name. It's a story about two 
 ## Love Death + Robots
 <!-- ![Love Death + Robot](/images/love_death_robot.jpg) -->
 <!-- ![Love Death + Robot](https://github.com/shangchengzhao/shangchengzhao.github.io/blob/master/images/love_death_robot.jpg) -->
-![love death + robot]({{ site.baseurl }}/images/love_death_robot.jpg)
+![love death + robot]({{ site.baseurl }}/images/posters/love_death_robot.jpg)
 
 **Genre**: Sci-fi, Animation
 
@@ -61,7 +61,7 @@ Chicago is based on a Broadway musical of the same name. It's a story about two 
 - [ ] Watched?
 
 ## My Brilliant Friend
-![My Brilliant Friend]({{ site.baseurl }}/images/posters/elena.jpg)
+![My Brilliant Friend]({{ site.baseurl }}/images/posters/elena.png)
 
 **Genre**: Drama
 
