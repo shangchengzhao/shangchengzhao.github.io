@@ -19,7 +19,7 @@ title: Movie Reviews
 # TV shows
 ## Sci-fi
 ### Love Death + Robots
-![alt text](https://github.com/shangchengzhao/shangchengzhao.github.io/blob/master/images/love_death_robot.jpg "Love Death + Robots")
+![alt text](https://github.com/shangchengzhao/shangchengzhao.github.io/blob/master/images/love_death_robot.jpg)
 
 - [ ] Watched?
 
