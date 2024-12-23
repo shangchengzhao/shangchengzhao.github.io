@@ -1,7 +1,13 @@
 ---
 layout: post
-title: Movie Reviews
+title: Ink, Film, and Magic ✨
 ---
+
+This review is more than just a list of books and movies. For me, reading and watching have always been ways to explore the world. I love sitting quietly in my room, letting my mind wander with the characters, sharing in their joys and sorrows. The journey is always fascinating and, in its own way, comforting. Stories have a sense of closure: adventurers return, mysteries are solved, and happy couples find their way to marriage. Reading feels like a game of chess—finite in its possibilities, yet giving you a sense of control.
+
+Over time, I’ve read many books and watched countless movies. Writing this review is my way of revisiting those experiences and sharing them with you. I understand that some of these choices may not be to your taste—they might feel too slow or overly long. Still, they’ve left a mark on me, becoming part of who I am, and I want to include them here.
+
+I hope you enjoy this journey with me ☺️
 
 # 1 Movies
 ## Love Letter
@@ -30,7 +36,9 @@ It's a little embarrassed to tell people that I thought Alita was the best sci-f
 - [ ] Watched?
 
 Chicago is based on a Broadway musical of the same name. It's a story about two female criminals accused of murder with the help of a shrewd lawyer and under the influence of press. The story is set in 1920s Chicago, which is know as the Jazz Age. Interestingly, the musical is based on a earlier play written by the journalist who reported the acutal criminals and crimes. The story is meant to be a satire of the concept of "celebrity criminal" and the biased juries. However, in my opinion, it somehow strenghthens gender stereotypes. 
+
 In the early 1920s, Chicago's press and public became obsessed with women who killed their lovers or husbands. These cases were brought to the trial against a backdrop of chaging views of women in the Jazz Age. At that time, all Cook County juries were male. A lore arose that, in Chicago, attractive women could never be convicted.
+
 It is always complex when comes to stereotype, which continuously update along with the society. On the otherhand, great artworks can persist on the stage for a long time. Chicago might be regarded as an innovative work back to 1920s, but now we are already in the fourth wave of feminism. It's interesting to see how the picture of women (and men, lawyer, prison guard, ...) are depicted in the movie and how it's different from today's perspective.
 Lastly, I love the music and the dance in the movie. It's a great Jazz musical.
 
@@ -42,8 +50,10 @@ Lastly, I love the music and the dance in the movie. It's a great Jazz musical.
 - [ ] Watched?
 
 This musical-based movie is one of my secret favorites. I love it not only because of the songs and lyrics, but also because the story behind the scene, and the actors. 
+
 The movie is an embedded narrative. It's about a young composer, Jonathan Larson, who is struggling to pursue his dream. Larson is the composer of the famous musical *Rent*, which won plentiful awards and is one of the most longevous Broadway shows. The movie is based on a musical that was written by Larson himself about his own life. More interestingly, it is directed by Lin-Manuel Miranda, who is also a famouse composer and actor, known for his musical *Hamilton*.
 The story began in Larson's cramped apartment in New York City. I can still  recall the song he performed at the party he hosted in that tiny, dimly lit space (I absolutely loved Andrew Garfield's performance of it).Although life is tough, Larson and his friends are still fully passionate about their dreams, and made the best of their lives by singing, dancing, and laughing. The movie is a celebration of life, friendship, and art. It's a great movie to watch when you feel down or lost. It's a reminder that life is short, and we should cherish every moment and every person we meet.
+
 Larson's life was even more dramatic than the movie. He died on the day of the first preview of *Rent*, due to sudden heart attack. He never had the chance to celebrate the success of his work, and to see how much it meant to the world. The movie is a tribute to him, and to all the dreamers who are fighting to make their dreams come true. 
 
 
@@ -65,7 +75,7 @@ Love Death + Robots is a collection of short stories, each of which is animated 
 - *S3 E1 Three Robots: Exit Strategies*: Three robots visiting the abandoned Earth and leaving sharp comments. A funny and sarcastic story.
 - *S3 E2 Bad Travelling*: Michel's favorite. It is interesting to see how democracy can be used to serve self-interests. Moreover, seeing how the main character made his way is quite engaging.
 - *S3 E3 The Very Pulse of the Machine*: My favorite. It's a poetic way to depict death and rebirth
-- *S3 E9 Jibaro*: Don't watch it before bed. It's not a comforting story, but definitely has the highest quality of animation. The anime is a masterpiece, no matter from the clothing, digital art, movement, or sound effect. I'm particularly curious about the design of the sirren and knights' clothes. It looks like a mix of medieval European and something asian (maybe Indian?). Unfortunately I didn't find any review about it.
+- *S3 E9 Jibaro*: Don't watch it before bed. It's not a comforting story, but definitely has the highest quality of animation. The anime is a masterpiece, no matter from the clothing, digital art, movement, or sound effect. I'm particularly curious about the design of the sirren and knights' clothes. It looks like a mix of medieval European and something Oriental. Unfortunately I didn't find any review about it.
 
 
 # 3 I haven't watched this yet, but I heard it's good
@@ -84,7 +94,7 @@ Love Death + Robots is a collection of short stories, each of which is animated 
 
 - [ ] Watched?
 
-I read the book and loved it. The story is about two girls growing up in Naples, Italy. Their lives are intertwined and mirrored in many ways. At an early age, they went on different paths--Elena keep studying and Lila got married when she was 16. Although their lives diverged, they still stayed close and faced many challenges together. I believe the most beautiful part of the book is the friendship--it's complex, deep, and real. All female characters were given well-rounded protrayals. You can see their desires, their struggles, and their dedication to their dreams.
+I read the series of books and loved them. The story is about two girls growing up in Naples, Italy. Their lives are intertwined and mirrored in many ways. At an early age, they went on different paths--Elena keep studying and Lila got married when she was 16. Although their lives diverged, they still stayed close and faced many challenges together. I believe the most beautiful part of the book is the friendship--it's complex, deep, and real. All female characters were given well-rounded protrayals. You can see their desires, their struggles, and their dedication to their dreams.
 
 <!-- Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
