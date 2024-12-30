@@ -11,6 +11,17 @@ I hope you enjoy this journey with me ☺️
 
 # 1 Movies
 
+## The Legend of 1900
+![The Legend of 1900]({{ site.baseurl }}/images/posters/the_legend_of_1900.png)
+
+**Genre**: Drama
+
+- [ ] Watched?
+
+If you were to ask me about my favorite movie, this one would be one of those that  come to my mind. The story follows an orphan born on a cruise ship who grows up to become a piano prodigy. The film evokes a deep sense of nostalgia for the golden age of the early 20th century, enriched by jazz music and an overarching feeling of being adrift. I find myself resonating with the main character, 1900, who spends his entire life on the ship, never setting foot on land. His internal struggle—torn between staying in the familiar confines of the cruise and venturing into the unknown—mirrors moments in my own life.
+
+The movie features stunning cinematography and a captivating soundtrack. Originally released in 1998, it has been re-screened multiple times over the years. I highly recommend it :)
+
 ## Love Letter
 ![Love Letter]({{ site.baseurl }}/images/posters/love_letter.jpg)
 
@@ -27,7 +38,9 @@ Love letter is a Japanese movie directed by *Shunji Iwai*, shot majorly in Hokka
 
 - [ ] Watched?
 
-This movie is regarded as one of the must-watched sci-fi movies. I add it because it reminds me our discussion about Europe's migration dilemma. 
+This movie is regarded as one of the must-watch sci-fi films. I included it because it reminds of me our discussion about Europe's migration dilemma. The story begins when a population of sick and malnourished aliens is discovered aboard a spaceship that appears over South Africa. The government confines them to an internment camp called District 9. Twenty years after, a bureaucrat named Wikus is tasked with overseeing the relocation of the aliens, only to become deeply entangled in the unfolding conflict in unexpected ways.
+
+The movie explored themes of  humanity, xenophobia and social segregation in a compelling way. It's unsettling to see how fear drives people to harm one another. But I believe that bringing up these issues and being aware of our irrational instincts will help to build a more compassionate world :)
 
 ## Alita: Battle Angel
 ![Alita: Battle Angel]({{ site.baseurl }}/images/posters/alita.png)
