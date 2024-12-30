@@ -118,6 +118,10 @@ The book unravels the unswept history of Qing dynasty's globalization.
 
 - [ ] Watched?
 
+This TV series is based on a famous novel by Colombian author *Gabriel García Márquez*, which tells the multi-generational story of a Colombian family. Surprisingly, although Wikipedia describes it as “one of the supreme achievements in world literature,” it doesn’t seem to be very popular in Germany 😉
+
+The book is renowned for its magical realism, weaving mysterious and sometimes hilarious stories that reflect real-life themes. I’ve tried reading it two or three times but never managed to get past the first 20 pages. The TV show has received high reviews, so I’m hoping I can finally experience the story by watching it instead.
+
 ## My Brilliant Friend
 ![My Brilliant Friend]({{ site.baseurl }}/images/posters/elena.png)
 
