@@ -10,6 +10,7 @@ Over time, I’ve read many books and watched countless movies. Writing this rev
 I hope you enjoy this journey with me ☺️
 
 # 1 Movies
+
 ## Love Letter
 ![Love Letter]({{ site.baseurl }}/images/posters/love_letter.jpg)
 
@@ -18,6 +19,15 @@ I hope you enjoy this journey with me ☺️
 - [ ] Watched?
 
 Love letter is a Japanese movie directed by *Shunji Iwai*, shot majorly in Hokkaido. It's a story about secret love, loss, and healing. I watched it when I was a teenager who just started to understand and dream for love. The story is beautiful and touching, with poetic dialogues and cinematography. I always want to pay a visit to Hokkaido during the winter after watching this movie.
+
+## District 9
+![District 9]({{ site.baseurl }}/images/posters/district_nine.jpg)
+
+**Genre**: Sci-fi
+
+- [ ] Watched?
+
+This movie is regarded as one of the must-watched sci-fi movies. I add it because it reminds me our discussion about Europe's migration dilemma. 
 
 ## Alita: Battle Angel
 ![Alita: Battle Angel]({{ site.baseurl }}/images/posters/alita.png)
@@ -77,8 +87,16 @@ Love Death + Robots is a collection of short stories, each of which is animated 
 - *S3 E3 The Very Pulse of the Machine*: My favorite. It's a poetic way to depict death and rebirth
 - *S3 E9 Jibaro*: Don't watch it before bed. It's not a comforting story, but definitely has the highest quality of animation. The anime is a masterpiece, no matter from the clothing, digital art, movement, or sound effect. I'm particularly curious about the design of the sirren and knights' clothes. It looks like a mix of medieval European and something Oriental. Unfortunately I didn't find any review about it.
 
+# 3 Books
 
-# 3 I haven't watched this yet, but I heard it's good
+## Emperor Kangxi's Red Manifesto
+![kangxi]({{ site.baseurl }}/images/posters/red_manifesto.jpeg)
+
+**Genre**: History
+
+The book unravels the unswept history of Qing dynasty's globalization.
+
+# 4 I haven't watched this yet, but I heard it's good
 
 ## One hundred years of solitude
 ![One hundred years of solitude]({{ site.baseurl }}/images/posters/marquez.png)
