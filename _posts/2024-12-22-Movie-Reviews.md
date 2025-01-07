@@ -111,6 +111,15 @@ The book unravels the unswept history of Qing dynasty's globalization.
 
 # 4 I haven't watched this yet, but I heard it's good
 
+## The Man from Earth
+![the_man_from_earth]({{ site.baseurl }}/images/posters/man_from_earth.jpeg)
+
+- [ ] Watched?
+
+**Genre**: Sci-fi
+
+This movie is seems to be a soft sci-fi movie, which is more about the philosophical questions than the technology. I occasionally heard about it when reading the reviews of Netflix's new documentary *Live to 100: Secrets of the Blue Zones*, which is about longevity. I think it's an interesting topic to explore, and I'm looking forward to watching it.
+
 ## One hundred years of solitude
 ![One hundred years of solitude]({{ site.baseurl }}/images/posters/marquez.png)
 
